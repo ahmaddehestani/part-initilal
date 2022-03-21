@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "ahmad_dehestani_server": "^1.0.1",
+    "ahmad-dehestani-parser": "^1.0.2",
+    "ahmad-dehestani-router": "^1.0.1",
+    "pg": "^8.7.3",
+    "rest-ajv-custom": "^1.0.2",
+    "rest-schemavalidator": "^1.0.2"
+  }
+}
